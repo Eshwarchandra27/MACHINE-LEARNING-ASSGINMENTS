@@ -133,7 +133,7 @@ print("Area of a circle = ",_area_of_circle_," meters square")
 
 
 # In[10]:
-
+#Question 6
 
 print("I am a teacher and I love to inspire and teach people")
 #split the string with using space
@@ -159,14 +159,6 @@ area = 3.14 * radius ** 2
 print("The area of a circle with radius",radius,"is %.0f" %area, "meters square.")
 
 
-# In[ ]:
-
-
-
-
-
-# In[13]:
-
 
 # Question 9
 # 1lb = 0.453592kg
@@ -186,7 +178,6 @@ print("weight of students in lbs: ", weight_of_students_lbs)
 print("weight of students in kgs: ", weight_of_students_kgs)
 
 
-# In[ ]:
 
 
 
