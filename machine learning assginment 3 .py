@@ -80,21 +80,7 @@ arr= np.reshape(arr, (2, 3))
 print("Reshape to 2x3: \n", arr)
 
 
-# In[5]:
 
-
-#d
-import matplotlib.pyplot as plt
-
-# given data
-languages = ['Java', 'Python', 'PHP', 'JavaScript', 'C#', 'C++']
-popularity = [22.2, 17.6, 8.8, 8, 7.7, 6.7]
-
-# display the  pie chart
-plt.pie(popularity, labels=languages,explode=(0.1,0,0,0,0,0),autopct='%1.1f%%',startangle=90)
-
-# show the chart
-plt.show()
 
 
 # In[ ]:
